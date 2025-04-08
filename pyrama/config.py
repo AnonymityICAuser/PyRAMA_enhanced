@@ -1,4 +1,4 @@
-
+# config.py
 import matplotlib.colors as mplcolors
 import os
 
@@ -25,3 +25,6 @@ RAMA_PREFERENCES = {
         "bounds": [0, 0.002, 0.02, 1],
     }
 }
+
+# Output configuration
+DEFAULT_OUTPUT_DIR = "/ramachandran_results"
