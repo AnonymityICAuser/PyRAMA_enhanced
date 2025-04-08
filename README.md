@@ -12,8 +12,8 @@ Example: one of the chains of a complex:
 Current fork is still under development, so it can not be downloaded from Pypi. It may have some bug, so please contact me if you meet some. If you want to use, please direct clone the repository and use the script `core.py`:
 
 ```python
-python core.py target.pdb
+python pyrama/core.py target.pdb
 ```
 
-Please change the DEFAULT_OUTPUT_DIR to your own work dictory.
+Please change the DEFAULT_OUTPUT_DIR in pyrama/config.py to your own work dictory.
 
