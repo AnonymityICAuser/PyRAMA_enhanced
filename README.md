@@ -1,12 +1,19 @@
 # PyRAMA_multi
 Python3 implementation of the Ramachandran plot. 
 
-This is a new version of old PyRAMA which could process complexs with multiple chains. You could check each chain, with outliear report now.
+This is a new version of old PyRAMA which could process complexs with multiple chains, for my own ICA work. You could check each chain, with outliear report now.
 
-Current fork is still under development. If you want to use, please direct clone the repository and use the script `core.py`:
+Example: one of the chains of a complex:
+
+![image](https://github.com/user-attachments/assets/f8e54cde-a9ca-4bfb-a2d6-17306d022f0c)
+
+
+
+Current fork is still under development, so it can not be downloaded from Pypi. It may have some bug, so please contact me if you meet some. If you want to use, please direct clone the repository and use the script `core.py`:
 
 ```python
 python core.py target.pdb
 ```
 
-please change the DEFAULT_OUTPUT_DIR to your own dir.
+Please change the DEFAULT_OUTPUT_DIR to your own work dictory.
+
