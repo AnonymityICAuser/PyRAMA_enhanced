@@ -9,7 +9,7 @@ Example: one of the chains of a complex:
 
 
 
-Current fork is still under development, so it can not be downloaded from Pypi. It may have some bug, so please contact me if you meet some. If you want to use, please direct clone the repository and use the script `core.py`:
+Current fork is still under development, so it can not be downloaded from Pypi. It may have some bug, so please contact me if you meet any. If you want to use now, please direct clone the repository and use the script `core.py`:
 
 ```python
 python pyrama/core.py target.pdb
