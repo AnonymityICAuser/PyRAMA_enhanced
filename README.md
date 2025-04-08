@@ -8,3 +8,5 @@ Current fork is still under development. If you want to use, please direct clone
 ```python
 python core.py target.pdb
 ```
+
+please change the DEFAULT_OUTPUT_DIR to your own dir.
