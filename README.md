@@ -1,7 +1,7 @@
 # PyRAMA_multi
 Python3 implementation of the Ramachandran plot. 
 
-This is a new version of old PyRAMA which could process complexs with multiple chains, for my own ICA work. You could check each chain, with outliear report now.
+This is a new version of old PyRAMA which could process complexs with multiple chains, for my own ICA work. You could check each chain, with outliear report now. So now we can easily generate a clear ramachandran plot for chains.
 
 Example: one of the chains of a complex:
 
